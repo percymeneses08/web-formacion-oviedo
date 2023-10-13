@@ -1,4 +1,17 @@
 body
 {
-  background: yellow;
+/*   background: #F9FF74; */
+  background: linear-gradient(red, rgb(91, 190, 255), #F9FF74);
+  color: blue;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+h1
+{
+  color: #64FE66;
+  font-size: 40px;
+  font-weight: 1000;
+  letter-spacing: 0px;
+  word-spacing: 20px;
+  line-height: 55px;
 }
